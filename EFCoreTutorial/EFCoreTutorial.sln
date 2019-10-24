@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.29230.47
+VisualStudioVersion = 16.0.29326.143
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTutorial", "EFCoreTutorial\EFCoreTutorial.csproj", "{B7E9B34C-9E53-4ACA-A0BD-2551B4CD79A0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreTutorial", "EFCoreTutorial\EFCoreTutorial.csproj", "{1B3681E0-6DFA-4362-960F-D635630126B6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B7E9B34C-9E53-4ACA-A0BD-2551B4CD79A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B7E9B34C-9E53-4ACA-A0BD-2551B4CD79A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B7E9B34C-9E53-4ACA-A0BD-2551B4CD79A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B7E9B34C-9E53-4ACA-A0BD-2551B4CD79A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B3681E0-6DFA-4362-960F-D635630126B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B3681E0-6DFA-4362-960F-D635630126B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B3681E0-6DFA-4362-960F-D635630126B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B3681E0-6DFA-4362-960F-D635630126B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {E49967EE-7297-45CC-B9C6-CCDFA0907BB1}
+		SolutionGuid = {3DA53D65-EC2B-4099-99BB-6DE1BA396A8A}
 	EndGlobalSection
 EndGlobal
